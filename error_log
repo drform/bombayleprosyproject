@@ -1,0 +1,47 @@
+[12-Apr-2019 06:23:24 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/bombaoim/public_html/index.php on line 3
+[12-Apr-2019 06:23:24 UTC] PHP Warning:  include(http://www.bombayleprosycare.org/modules/navbar.php): failed to open stream: no suitable wrapper could be found in /home/bombaoim/public_html/index.php on line 3
+[12-Apr-2019 06:23:24 UTC] PHP Warning:  include(): Failed opening 'http://www.bombayleprosycare.org/modules/navbar.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bombaoim/public_html/index.php on line 3
+[09-Aug-2019 05:14:44 Etc/GMT] PHP Warning:  include(assets/navbar.php): failed to open stream: No such file or directory in /home/bombaoim/public_html/index.php on line 3
+[09-Aug-2019 05:14:44 Etc/GMT] PHP Warning:  include(assets/navbar.php): failed to open stream: No such file or directory in /home/bombaoim/public_html/index.php on line 3
+[09-Aug-2019 05:14:44 Etc/GMT] PHP Warning:  include(): Failed opening 'assets/navbar.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bombaoim/public_html/index.php on line 3
+[09-Aug-2019 05:15:02 Etc/GMT] PHP Warning:  include(assets/navbar.php): failed to open stream: No such file or directory in /home/bombaoim/public_html/index.php on line 3
+[09-Aug-2019 05:15:02 Etc/GMT] PHP Warning:  include(assets/navbar.php): failed to open stream: No such file or directory in /home/bombaoim/public_html/index.php on line 3
+[09-Aug-2019 05:15:02 Etc/GMT] PHP Warning:  include(): Failed opening 'assets/navbar.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/bombaoim/public_html/index.php on line 3
+[09-Aug-2019 07:30:19 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function sessioin_start() in /home/bombaoim/public_html/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bombaoim/public_html/index.php on line 4
+[09-Aug-2019 07:30:38 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function sessioin_start() in /home/bombaoim/public_html/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bombaoim/public_html/index.php on line 4
+[09-Aug-2019 07:30:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function sessioin_start() in /home/bombaoim/public_html/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bombaoim/public_html/index.php on line 4
+[03-Dec-2019 12:28:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bombaoim/public_html/index.php on line 199
+[03-Dec-2019 12:28:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bombaoim/public_html/index.php on line 199
+[03-Dec-2019 12:44:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/bombaoim/public_html/index.php on line 142
+[03-Dec-2019 12:44:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/bombaoim/public_html/index.php on line 142
+[03-Dec-2019 13:45:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/bombaoim/public_html/index.php on line 142
+[03-Dec-2019 13:45:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/bombaoim/public_html/index.php on line 142
+[03-Dec-2019 13:48:21 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 947
+[03-Dec-2019 13:48:28 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 947
+[03-Dec-2019 13:49:13 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 947
+[03-Dec-2019 13:49:50 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 947
+[03-Dec-2019 13:53:05 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 947
+[03-Dec-2019 13:54:22 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 949
+[03-Dec-2019 13:55:43 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 944
+[03-Dec-2019 13:56:40 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 953
+[03-Dec-2019 13:57:33 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 951
+[03-Dec-2019 14:04:00 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 936
+[03-Dec-2019 14:04:06 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 936
+[03-Dec-2019 14:04:07 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 936
+[03-Dec-2019 14:05:22 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 938
+[03-Dec-2019 14:06:20 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 938
+[03-Dec-2019 14:10:31 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 938
+[03-Dec-2019 14:10:40 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 951
+[03-Dec-2019 14:13:20 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 945
+[03-Dec-2019 14:14:48 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 952
+[03-Dec-2019 14:15:39 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 951
+[03-Dec-2019 14:15:55 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/bombaoim/public_html/index.php on line 951
